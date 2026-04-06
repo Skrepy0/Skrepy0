@@ -1,0 +1,51 @@
+name: 更新 Waka 数据并重新部署
+on:
+  push:
+    branches:
+      - main          # 当向 main 分支推送代码时触发
+  schedule:
+    - cron: '30 18 * * *' # 每天坤时触发 
+  workflow_dispatch:  # 允许在 GitHub Actions 页面手动触发运行
+
+jobs:
+  waka:
+    name: Update Intro          # 任务的显示名称
+    runs-on: ubuntu-latest      # 使用最新版 Ubuntu 运行环境
+    steps:
+      # 使用第三方 Action：anmol098/waka-readme-stats
+      # 该 Action 会自动获取 WakaTime 数据并更新当前仓库的 README.md
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # ---------- 提交身份配置 ----------
+          # 自动提交时使用的 Git 用户名
+          COMMIT_USERNAME: "Skrepy0"
+          # 自动提交时使用的 Git 邮箱（GitHub 提供的 noreply 邮箱）
+          COMMIT_EMAIL: "155234406+Skrepy0@users.noreply.github.com"
+
+          # 是否显示最后更新时间（设为 False 以保持简洁）
+          SHOW_UPDATED_DATE: "False"
+          # 是否显示 GitHub 资料浏览量（需要额外权限，设为 False）
+          SHOW_PROFILE_VIEWS: "False"
+          # 是否显示最近提交记录（设为 False）
+          SHOW_COMMIT: "False"
+          # 是否显示每周活跃度分布（设为 True）
+          SHOW_DAYS_OF_WEEK: "True"
+          # 是否显示简短个人信息（如头像、用户名等，设为 False）
+          SHOW_SHORT_INFO: "False"
+          # 是否显示代码行数变化图表（设为 False）
+          SHOW_LOC_CHART: "False"
+          # 是否显示使用的操作系统（设为 False）
+          SHOW_OS: "False"
+          # 是否显示各项目耗时分布（启用）
+          SHOW_PROJECTS: "True"
+          # 是否显示总代码行数（启用）
+          SHOW_LINES_OF_CODE: "True"
+          # 是否显示总编码时长（启用）
+          SHOW_TOTAL_CODE_TIME: "True"
+          # 是否显示编程语言分布（启用）
+          SHOW_LANGUAGE: "True"
+          # 是否显示每个仓库的语言统计（关闭）
+          SHOW_LANGUAGE_PER_REPO: "False"
