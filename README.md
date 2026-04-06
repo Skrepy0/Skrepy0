@@ -3,16 +3,16 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.86%20thousand%20lines%20of%20code-blue?style=flat)
 
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Tuesday                  108 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Sunday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Monday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Tuesday                  108 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 
