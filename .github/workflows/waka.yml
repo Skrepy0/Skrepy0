@@ -26,8 +26,8 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           # 是否显示 GitHub 资料浏览量（需要额外权限，设为 False）
           SHOW_PROFILE_VIEWS: "False"
-          # 是否显示最近提交记录（设为 False）
-          SHOW_COMMIT: "False"
+          # 是否显示最近提交记录（设为 True）
+          SHOW_COMMIT: "True"
           # 是否显示每周活跃度分布（设为 True）
           SHOW_DAYS_OF_WEEK: "True"
           # 是否显示简短个人信息（如头像、用户名等，设为 False）
