@@ -1,8 +1,5 @@
 name: 更新 Waka 数据并重新部署
 on:
-  push:
-    branches:
-      - main          # 当向 main 分支推送代码时触发
   schedule:
     - cron: '30 18 * * *' # 每天坤时触发 
   workflow_dispatch:  # 允许在 GitHub Actions 页面手动触发运行
