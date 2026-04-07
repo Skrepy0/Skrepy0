@@ -34,4 +34,8 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/Skrepy0/HomePage/output/github-contribution-grid-snake-dark.svg" alt="commit sanke">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skrepy0/HomePage/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/Skrepy0/HomePage/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Skrepy0/HomePage/output/github-contribution-grid-snake-dark.svg" />
+</picture>
