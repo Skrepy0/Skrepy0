@@ -43,6 +43,6 @@ jobs:
           # 是否显示总编码时长（启用）
           SHOW_TOTAL_CODE_TIME: "True"
           # 是否显示编程语言分布（启用）
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           # 是否显示每个仓库的语言统计（关闭）
           SHOW_LANGUAGE_PER_REPO: "False"
