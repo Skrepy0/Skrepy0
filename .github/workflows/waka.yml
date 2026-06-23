@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          IGNORED_REPOS: "siyemuxu"
+          IGNORED_REPOS: "Skrepy0/siyemuxu"
 
           # ---------- 提交身份配置 ----------
           # 自动提交时使用的 Git 用户名
