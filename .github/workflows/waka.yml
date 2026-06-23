@@ -47,6 +47,4 @@ jobs:
           # 是否显示每个仓库的语言统计（关闭）
           SHOW_LANGUAGE_PER_REPO: "False"
 
-          EXCLUDED_PROJECTS: "siyemuxu"
-          
-          DEBUG_LOGGING: "True"
+          IGNORED_REPOS: "siyemuxu”
