@@ -15,8 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          IGNORED_REPOS: "Skrepy0/siyemuxu"
-          DEBUG_LOGGING: "True"
 
           # ---------- 提交身份配置 ----------
           # 自动提交时使用的 Git 用户名
@@ -48,3 +46,7 @@ jobs:
           SHOW_LANGUAGE: "False"
           # 是否显示每个仓库的语言统计（关闭）
           SHOW_LANGUAGE_PER_REPO: "False"
+
+          EXCLUDED_PROJECTS: "siyemuxu"
+          
+          DEBUG_LOGGING: "True"
