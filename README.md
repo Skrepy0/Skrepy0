@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-618.08%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-619.68%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-🌆 Daytime                371 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌃 Evening                528 commits         ███████████░░░░░░░░░░░░░░   42.51 % 
-🌙 Night                  270 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌞 Morning                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌆 Daytime                375 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                533 commits         ███████████░░░░░░░░░░░░░░   42.40 % 
+🌙 Night                  272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   304 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Tuesday                  198 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Saturday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Monday                   304 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Tuesday                  198 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sunday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -30,18 +30,18 @@ Sunday                   161 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Rider                    20 hrs 51 mins      ███████████████░░░░░░░░░░   59.59 % 
-IntelliJ IDEA            9 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-VS Code                  5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Rider                    22 hrs 2 mins       █████████████░░░░░░░░░░░░   53.94 % 
+IntelliJ IDEA            13 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.64 % 
+VS Code                  5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-GifDisplay               12 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   34.83 % 
-overlayer-1.21.1         9 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-CalibrationPatch         4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-BetterFpsSetting         3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-CSharp                   2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+GifDisplay               13 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.54 % 
+overlayer-1.21.1         11 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+CalibrationPatch         4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+BetterFpsSetting         3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+CSharp                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 
 
