@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-627.36%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-636.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-🌆 Daytime                389 commits         ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-🌃 Evening                556 commits         ███████████░░░░░░░░░░░░░░   42.38 % 
-🌙 Night                  286 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+🌆 Daytime                399 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌃 Evening                572 commits         ███████████░░░░░░░░░░░░░░   42.18 % 
+🌙 Night                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   320 commits         ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Tuesday                  200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Wednesday                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Saturday                 177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Sunday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Monday                   332 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Tuesday                  200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Friday                   189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Saturday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
 
@@ -30,18 +30,18 @@ Sunday                   185 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  10 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.59 % 
-IntelliJ IDEA            8 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.73 % 
-Android Studio           2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Rider                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+IntelliJ IDEA            9 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.28 % 
+VS Code                  6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.97 % 
+Android Studio           2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Rider                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-Melodio                  5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-vscode                   5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-overlayer-1.21.1-fabric  4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-overlayer-1.21.1         1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-overlayer-1.21.5-fabric  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Melodio                  5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+vscode                   3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+overlayer-26.2           3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+overlayer-1.21.1         1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+overlayer-1.21.5-fabric  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 ```
 
 
