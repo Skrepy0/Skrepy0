@@ -1,26 +1,24 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2037%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-647.61%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-647.65%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-🌆 Daytime                426 commits         ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌃 Evening                603 commits         ██████████░░░░░░░░░░░░░░░   41.82 % 
-🌙 Night                  316 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+🌞 Morning                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+🌆 Daytime                426 commits         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+🌃 Evening                603 commits         ██████████░░░░░░░░░░░░░░░   41.70 % 
+🌙 Night                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   340 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Tuesday                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Thursday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Friday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Sunday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Monday                   340 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Tuesday                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Thursday                 152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Friday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Sunday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 ```
 
 
@@ -30,17 +28,17 @@ Sunday                   208 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 43 mins       █████████████░░░░░░░░░░░░   53.15 % 
-VS Code                  3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-PyCharm                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-CLion                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+IntelliJ IDEA            4 hrs 3 mins        ████████████████████░░░░░   80.78 % 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+CLion                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+PyCharm                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🐱‍💻 Projects: 
-MelodioDownloader        3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
-overlayer-1.20           2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-overlayer-1.21.1-fabric  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-overlayer-26.2           34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-overlayer-1.21.5-fabric  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+overlayer-1.20           2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.59 % 
+overlayer-1.21.1-fabric  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+overlayer-26.2           34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+overlayer-1.21.5-fabric  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+MelodioDownloader        29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 ```
 
 
