@@ -1,28 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-665.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-666.06%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌆 Daytime                434 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌃 Evening                628 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
-🌙 Night                  343 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌞 Morning                118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 Daytime                436 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                629 commits         ██████████░░░░░░░░░░░░░░░   41.22 % 
+🌙 Night                  343 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   383 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Wednesday                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Sunday                   213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Monday                   383 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 ```
 
 
@@ -32,18 +32,18 @@ Sunday                   213 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.54 % 
-PyCharm                  3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
-WebStorm                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Android Studio           34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-IntelliJ IDEA            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+PyCharm                  4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.88 % 
+VS Code                  2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+WebStorm                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+IntelliJ IDEA            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Android Studio           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-Melodio-BackEnd          3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-aihub-docs               2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Fabulous-Beasts          2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Melodio                  1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-overlayer-26.2           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Melodio-BackEnd          4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.86 % 
+Fabulous-Beasts          2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Melodio                  2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+overlayer-26.2           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+aihub-docs               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 🤖 **AI Coding This Week** 
