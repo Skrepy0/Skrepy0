@@ -1,28 +1,24 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2038%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-666.76%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-668.78%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-🌆 Daytime                436 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-🌃 Evening                631 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌙 Night                  345 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌆 Daytime                447 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌃 Evening                632 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
+🌙 Night                  347 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   383 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Wednesday                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Sunday                   213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   383 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Sunday                   213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 ```
 
 
@@ -32,18 +28,18 @@ Sunday                   213 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.21 % 
-WebStorm                 3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-VS Code                  2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Rider                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+WebStorm                 10 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.08 % 
+PyCharm                  5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Android Studio           2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+VS Code                  2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+IntelliJ IDEA            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-Melodio-BackEnd          4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
-Melodio                  3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Fabulous-Beasts          2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-overlayer-26.2           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-GifDisplay               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Melodio                  13 hrs 6 mins       ███████████████░░░░░░░░░░   61.45 % 
+Melodio-BackEnd          5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Fabulous-Beasts          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+overlayer-26.2           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+GifDisplay               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
