@@ -1,24 +1,28 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-668.78%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2038%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-670.27%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-🌆 Daytime                447 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-🌃 Evening                632 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌙 Night                  347 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌞 Morning                126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+🌆 Daytime                448 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌃 Evening                638 commits         ██████████░░░░░░░░░░░░░░░   40.92 % 
+🌙 Night                  347 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   383 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Wednesday                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Sunday                   213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Monday                   383 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Wednesday                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Sunday                   213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 
 
@@ -28,18 +32,16 @@ Sunday                   213 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 10 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.08 % 
-PyCharm                  5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Android Studio           2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-VS Code                  2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-IntelliJ IDEA            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+WebStorm                 12 hrs 42 mins      ████████████░░░░░░░░░░░░░   47.95 % 
+PyCharm                  7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+Android Studio           3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+VS Code                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🐱‍💻 Projects: 
-Melodio                  13 hrs 6 mins       ███████████████░░░░░░░░░░   61.45 % 
-Melodio-BackEnd          5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Fabulous-Beasts          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-overlayer-26.2           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-GifDisplay               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Melodio                  16 hrs 32 mins      ████████████████░░░░░░░░░   62.37 % 
+Melodio-BackEnd          7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Fabulous-Beasts          2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
