@@ -1,28 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-732.10%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-732.17%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-🌆 Daytime                505 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌃 Evening                687 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌙 Night                  403 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+🌞 Morning                173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+🌆 Daytime                505 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+🌃 Evening                687 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  405 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   409 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Thursday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Monday                   409 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Thursday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Sunday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 
 
@@ -32,40 +32,38 @@ Sunday                   239 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  27 hrs 17 mins      █████████████████████░░░░   83.75 % 
-Claude Code              2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Rider                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Android Studio           1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-PyCharm                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+VS Code                  27 hrs 39 mins      ████████████████████████░   96.84 % 
+PyCharm                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-vscode                   23 hrs 12 mins      ██████████████████░░░░░░░   71.22 % 
-GifDisplay               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Melodio                  2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-blog                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Test                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+vscode                   25 hrs 51 mins      ███████████████████████░░   90.52 % 
+blog                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+LuoGu                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Melodio                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+overlayer                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (16.18%)
+⏱ AI Coding Time: 8 mins (0.47%)
 
-✍️ 9,247 lines written by AI, 3,747 lines written by hand (71.16% AI-written)
+✍️ 558 lines written by AI, 3,331 lines written by hand (14.35% AI-written)
 
-🔤 40,186,626 Input Tokens, 180,101 Output Tokens
+🔤 21,467 Input Tokens, 64 Output Tokens
 
-💵 $69.78 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 49 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-LongCat                  8,498 lines         █████████████████████████   100.00 % 
+LongCat                  558 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.16% of written lines came from AI
-📚 Verbose Prompter — average 4,456 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 39.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 14.35% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 91.6% of changed lines were hand-edited
 ```
 
 
