@@ -1,28 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-738.62%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-738.75%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-🌆 Daytime                520 commits         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-🌃 Evening                706 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
-🌙 Night                  423 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌞 Morning                176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+🌆 Daytime                520 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+🌃 Evening                707 commits         ██████████░░░░░░░░░░░░░░░   38.70 % 
+🌙 Night                  424 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   424 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Tuesday                  273 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Thursday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Friday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Saturday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Sunday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Monday                   424 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Thursday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Friday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Saturday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Sunday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
 
@@ -32,24 +32,23 @@ Sunday                   248 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  34 hrs 56 mins      ████████████████████████░   96.39 % 
-WebStorm                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Android Studio           24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  32 hrs 52 mins      █████████████████████████   99.83 % 
+Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-vscode                   31 hrs 19 mins      ██████████████████████░░░   86.37 % 
-blog                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Melodio                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-learning                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Test                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+vscode                   28 hrs 4 mins       █████████████████████░░░░   85.24 % 
+blog                     4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+learning                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Test                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+md-to-pdf-tool           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (1.81%)
+⏱ AI Coding Time: 39 mins (2.0%)
 
-✍️ 942 lines written by AI, 5,779 lines written by hand (14.02% AI-written)
+✍️ 942 lines written by AI, 5,338 lines written by hand (15.0% AI-written)
 
 🔤 3,116,510 Input Tokens, 43,516 Output Tokens
 
@@ -60,10 +59,10 @@ Test                     9 mins              ░░░░░░░░░░░�
 LongCat                  957 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.02% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 15.0% of written lines came from AI
 📝 Concise Prompter — average 19 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 92.36% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.75% of changed lines were hand-edited
 ```
 
 
