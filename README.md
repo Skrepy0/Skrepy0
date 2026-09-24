@@ -1,28 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752.93%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752.97%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-🌆 Daytime                537 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-🌃 Evening                723 commits         ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌙 Night                  442 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+🌞 Morning                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+🌆 Daytime                537 commits         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+🌃 Evening                724 commits         ██████████░░░░░░░░░░░░░░░   38.13 % 
+🌙 Night                  444 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   431 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Thursday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Sunday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Monday                   431 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Saturday                 261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Sunday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 ```
 
 
@@ -32,17 +32,17 @@ Sunday                   262 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-IntelliJ IDEA            4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
-CLion                    3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-PyCharm                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+IntelliJ IDEA            4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+VS Code                  3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+CLion                    2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+PyCharm                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🐱‍💻 Projects: 
-CLionProject             3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-blog                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Unknown Project          2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-overlayer-26.2-fabric    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-overlayer-26.3           1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+CLionProject             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Unknown Project          2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+overlayer-26.2-fabric    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+overlayer-26.3           1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+hnu_query                56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 🤖 **AI Coding This Week** 
