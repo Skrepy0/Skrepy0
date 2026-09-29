@@ -1,28 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-756.72%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-756.80%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-🌆 Daytime                541 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌃 Evening                724 commits         █████████░░░░░░░░░░░░░░░░   37.77 % 
-🌙 Night                  452 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌞 Morning                202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+🌆 Daytime                541 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌃 Evening                725 commits         █████████░░░░░░░░░░░░░░░░   37.76 % 
+🌙 Night                  452 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   436 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Wednesday                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   436 commits         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Tuesday                  291 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
 
@@ -32,25 +32,25 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       ██████████████░░░░░░░░░░░   57.62 % 
-PyCharm                  1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-IntelliJ IDEA            1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+VS Code                  4 hrs 14 mins       ███████████████░░░░░░░░░░   60.16 % 
+PyCharm                  1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+IntelliJ IDEA            1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.51 % 
-hnu_query                1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-chaoxing-fucker          1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-overlayer-26.2-fabric    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-overlayer-1.21.1-fabric  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Unknown Project          1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+hnu_query                1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+chaoxing-fucker          1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+blog                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+overlayer-26.2-fabric    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (3.07%)
+⏱ AI Coding Time: 12 mins (2.88%)
 
-✍️ 0 lines written by AI, 4,633 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,705 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
