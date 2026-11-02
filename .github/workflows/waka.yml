@@ -4,6 +4,9 @@ on:
     - cron: '30 18 * * *' # 每天 UTC 18:30（北京时间凌晨 2:30）触发
   workflow_dispatch:      # 允许手动触发
 
+permissions:
+  contents: write
+ 
 jobs:
   update-readme:
     name: Update WakaTime Stats
