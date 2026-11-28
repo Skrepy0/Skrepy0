@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2026 - To: 26 November 2026
+From: 20 November 2026 - To: 27 November 2026
 
-Total Time: 2 hrs 52 mins
+Total Time: 5 hrs 33 mins
 
-C++          1 hr 5 mins           ░░░░░░░░░▓███████████████   37.19 %
-Markdown     1 hr 2 mins           ░░░░░░░░░████████████████   35.86 %
-JSON         19 mins               ░░▒██████████████████████   10.91 %
-YAML         11 mins               ░▒███████████████████████   06.77 %
-Text         6 mins                ░████████████████████████   03.50 %
-Git Config   3 mins                ▓████████████████████████   01.76 %
-Other        2 mins                ▓████████████████████████   01.64 %
-TypeScript   2 mins                ▓████████████████████████   01.57 %
+C++          3 hrs 45 mins         ░░░░░░░░░░░░░░░░▒████████   67.17 %
+Markdown     1 hr 2 mins           ░░░░▒████████████████████   18.75 %
+JSON         19 mins               ░▓███████████████████████   05.70 %
+YAML         11 mins               ░████████████████████████   03.54 %
+Text         6 mins                ▓████████████████████████   01.83 %
+Git Config   3 mins                ▓████████████████████████   00.92 %
+Other        2 mins                ▓████████████████████████   00.86 %
+TypeScript   2 mins                ▓████████████████████████   00.82 %
 ```
 
 <!--END_SECTION:waka-->
